@@ -17,3 +17,5 @@ class EmailAddressParser
 		#seperate items in an array, when you find a , and space, or just a space.
 	end
 end
+
+#use https://rubular.com/ to figure out your regular expression (how to identify within a string)
